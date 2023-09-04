@@ -1,8 +1,8 @@
 
-#define BLYNK_TEMPLATE_ID "TMPLPRtRdPSl"
+#define BLYNK_TEMPLATE_ID "Your Template ID"
 #define BLYNK_DEVICE_NAME "Smart table"
 #define BLYNK_PRINT Serial
-#define BLYNK_AUTH_TOKEN "o2PXXZIDPZLNGCK5HhSL02auSlXtNxio"
+#define BLYNK_AUTH_TOKEN "Your Auth Token"
 
 #define Sensor A0
 #define Relay 12
